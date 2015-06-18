@@ -1,0 +1,4 @@
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.OutputData.Errors\build\1.0.0\debug\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.dll
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.OutputData.Errors\build\1.0.0\debug\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.OutputData.Errors\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.OutputData.Errors\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.pdb

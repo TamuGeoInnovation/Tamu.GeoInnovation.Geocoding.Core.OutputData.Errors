@@ -1,0 +1,5 @@
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.OutputData.Errors\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.OutputData.Errors\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.OutputData.Errors\src\Main\obj\Release\Geocoding.Core.OutputData.Errors.Dev.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.OutputData.Errors\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.OutputData.Errors\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.OutputData.Errors.pdb

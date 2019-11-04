@@ -4,10 +4,10 @@ using USC.GISResearchLab.Common.Geographics.Units;
 
 namespace USC.GISResearchLab.Geocoding.Core.OutputData.Error
 {
-	/// <summary>
-	/// Summary description for GeocodedError.
-	/// </summary>
-	public class GeocodedError
+    /// <summary>
+    /// Summary description for GeocodedError.
+    /// </summary>
+    public class GeocodedError
     {
         #region Properties
         private string _GeoError;
@@ -20,7 +20,7 @@ namespace USC.GISResearchLab.Geocoding.Core.OutputData.Error
             get { return _ErrorCalculationType; }
             set { _ErrorCalculationType = value; }
         }
-	
+
         public string GeoError
         {
             get { return _GeoError; }
@@ -39,8 +39,8 @@ namespace USC.GISResearchLab.Geocoding.Core.OutputData.Error
         #endregion
 
         public GeocodedError()
-		{
-			GeoError = "";
+        {
+            GeoError = "";
             ErrorBounds = -1;
         }
 
@@ -56,5 +56,5 @@ namespace USC.GISResearchLab.Geocoding.Core.OutputData.Error
             //}
             return ret.ToString();
         }
-	}
+    }
 }
